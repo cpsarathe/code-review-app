@@ -1,0 +1,2 @@
+CREATE SCHEMA `ds-customer` DEFAULT CHARACTER SET utf8 ;
+
